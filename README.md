@@ -1,32 +1,44 @@
-# 💰 SaveMate – Virtual Piggy Bank
+#  SaveMate – Virtual Piggy Bank
 
-SaveMate is a simple and interactive **goal-based savings app** that helps users manage their money and track their saving goals effectively.  
-It is built using modern web technologies like **React**, **Vite**, **TypeScript**, **Tailwind CSS**, and **shadcn-ui**.
-
-🌐 **Live Demo:** [https://savematevitualpiggybank.lovable.app/](https://savematevitualpiggybank.lovable.app/)
+**Team Name:** HackHers  
+**Team Members:** Tanishka Wagh, Shambhavi Vaishampayan, Sanskruti Ghavghave, Reva Kulkarni  
+**Project Name:** SaveMate – A Virtual Piggy Bank for Smarter Student Savings  
 
 ---
 
-## 🚀 Features
+##  Project Abstract
+
+SaveMate is a simple and interactive **goal-based savings app** designed for students to manage their money and build healthy saving habits. The app allows users to create saving goals, track progress visually, and get motivated with gamified streaks and milestone badges. Wallet transactions such as deposits and withdrawals are simulated to help students understand saving without the need for real payment gateways.  
+
+---
+
+##  Features
 
 - Create and manage multiple saving goals  
-- Track progress visually  
+- Track progress visually with charts and streaks  
+- Gamified badges to encourage regular saving  
 - Clean, minimal, and responsive UI  
-- Built for students and individuals learning financial planning  
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **React** – Frontend framework  
-- **Vite** – Lightning-fast build tool  
+- **Vite** – Fast development and build tool  
 - **TypeScript** – Type-safe JavaScript  
-- **Tailwind CSS** – For styling  
-- **shadcn/ui** – UI components library  
+- **Tailwind CSS** – Utility-first styling  
+- **shadcn/ui** – Prebuilt UI components  
 
 ---
 
-## 💻 Setup Instructions
+##  Dataset / Storage
+
+- No external dataset used  
+- User login and transaction history stored in **Lovable Cloud**  
+
+---
+
+##  Setup Instructions
 
 Follow these steps to run the project locally:
 
@@ -43,10 +55,9 @@ npm install
 # Step 4: Start the development server
 npm run dev
 
-## Deployment 
-The project was deployed online with help from Lovable for easy hosting and sharing.
-You can view the live version here:
-[ SaveMate – Virtual Piggy Bank](https://savematevitualpiggybank.lovable.app/)
 
-This project is open source and available
+## Deployment
+The project was deployed online using Lovable for easy hosting and instant sharing.
 
+## Live Demo
+You can view the live version here: https://savematevitualpiggybank.lovable.app/
